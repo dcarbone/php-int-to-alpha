@@ -6,3 +6,5 @@ composer.lock
 /.svn
 /phpunit.local.xml
 /test-reports
+/atlassian-ide-plugin.xml
+/phpunit.bat
